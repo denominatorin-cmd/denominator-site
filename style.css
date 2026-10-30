@@ -22,3 +22,5 @@ footer{text-align:center;padding:20px;font-size:.85rem;color:#667}
 .cform{max-width:640px;margin:20px auto 0;text-align:left;display:grid;gap:14px}.frow{display:grid;gap:14px}.cform label{display:grid;gap:4px;font-size:.9rem;font-weight:600}.cform input,.cform textarea{font:inherit;padding:12px;border-radius:10px;border:1px solid #ccc;background:#fff;color:#111;width:100%}.cform button{justify-self:start;border:0;cursor:pointer;font-size:1rem}
 footer .fc{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 18px;margin-bottom:6px}footer .fc a{color:#111;text-decoration:none}
 @media(min-width:700px){.frow{grid-template-columns:1fr 1fr}}
+.pf{padding:0;overflow:hidden;display:flex;flex-direction:column}.pf img{width:100%;height:auto;aspect-ratio:8/5;object-fit:cover;border-bottom:1px solid #eee}.pfb{padding:20px 22px}.pfb p{margin:6px 0 14px}.tagsm{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:#555;margin:0!important}.pf.mini .pfb{padding:14px 16px}.pf.mini h3{font-size:1rem}
+.more-demos{margin-top:16px;font-size:.92rem}.more-demos a{color:#000;font-weight:600}
